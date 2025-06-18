@@ -109,7 +109,7 @@ document.addEventListener('DOMContentLoaded', () => {
             ">
                 <h1 style="margin-top:0;">Thông báo</h1>
                 <h3>Hướng dẫn Locket Gold Android</h3>
-                <p style="color: #FF00FF;">Khi nhấn vào Nút Locket Android thì sẽ tự động tải xuống file locket apk.</p>
+                <p style="color: #FF00FF;">Khi nhấn vào Nút Locket Android thì sẽ tự động mở một trang để bạn tải xuống file locket apk.</p>
                 <p>Sau khi tải file afk xong thì <strong style="color:rgb(250, 16, 16);">"Xóa ứng dụng locket đã tải bằng CHplay (nếu có)"</strong> rồi tiến hành cài đặt ứng dụng locket từ file apk và sau khi đăng nhập xong thì sẽ có Gold</p>
                 <p>Chúc bạn có một trải nghiệm thật tốt!</p>
                 <button id="closeAndroidPopup" style="
